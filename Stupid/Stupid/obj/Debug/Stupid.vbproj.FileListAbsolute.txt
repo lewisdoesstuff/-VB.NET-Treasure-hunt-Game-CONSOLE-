@@ -1,0 +1,27 @@
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\bin\Debug\Stupid.exe.config
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\bin\Debug\Stupid.exe
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\bin\Debug\Stupid.pdb
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\bin\Debug\Stupid.xml
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\obj\Debug\Stupid.Resources.resources
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\obj\Debug\Stupid.vbproj.GenerateResource.Cache
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\obj\Debug\Stupid.exe
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\obj\Debug\Stupid.xml
+C:\Users\13woodle\AppData\Local\Temporary Projects\Stupid\obj\Debug\Stupid.pdb
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\bin\Debug\Stupid.exe.config
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\obj\Debug\Stupid.exe
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\obj\Debug\Stupid.xml
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\obj\Debug\Stupid.pdb
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\bin\Debug\Stupid.exe
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\bin\Debug\Stupid.pdb
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\bin\Debug\Stupid.xml
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\obj\Debug\Stupid.Resources.resources
+U:\My Documents\Visual Studio 2012\Projects\Stupid\Stupid\obj\Debug\Stupid.vbproj.GenerateResource.Cache
+E:\VB.Net\Stupid\Stupid\bin\Debug\Stupid.exe.config
+E:\VB.Net\Stupid\Stupid\obj\Debug\Stupid.exe
+E:\VB.Net\Stupid\Stupid\obj\Debug\Stupid.xml
+E:\VB.Net\Stupid\Stupid\obj\Debug\Stupid.pdb
+E:\VB.Net\Stupid\Stupid\bin\Debug\Stupid.exe
+E:\VB.Net\Stupid\Stupid\bin\Debug\Stupid.pdb
+E:\VB.Net\Stupid\Stupid\bin\Debug\Stupid.xml
+E:\VB.Net\Stupid\Stupid\obj\Debug\Stupid.Resources.resources
+E:\VB.Net\Stupid\Stupid\obj\Debug\Stupid.vbproj.GenerateResource.Cache
